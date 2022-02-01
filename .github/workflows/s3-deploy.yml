@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup environment
+      - name: Checkout
         uses: actions/checkout@v2
+
+      - name: Setup build Environment
         run: |
           echo "Upgrading pip"
           python -m pip install --upgrade pip
