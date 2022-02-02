@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Todo
 
-## Commands
+## Access and Credentials
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This section includes a variety of information about accessing computing resources at Tu Biomics, including setting up your local work environment, managing credentials for services, and requesting access for a service.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Data Storage
+
+At Tu Biomics we support a number of options for storing and accessing data for analyis. The service you use will depend on the nature of the analyis and antipated use.
+
+## Large Scale Computing
+
+Tu Biomics supports a cloud computing environment, this section describes available technologies and how to use these resources.
